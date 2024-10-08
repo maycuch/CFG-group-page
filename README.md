@@ -5,4 +5,4 @@
   - Animals page that can direct you to another specific animal's page (Cat, Rabbit, Guinea Pig)
   - Sign Up page - where you can fill up sign up form
  
-We used CSS and Javascript. 
+We worked with HTML, CSS and Javascript. 
