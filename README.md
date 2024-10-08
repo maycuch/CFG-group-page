@@ -4,3 +4,5 @@
   - Homepage with a picture of the dog with 5 clickable buttons
   - Animals page that can direct you to another specific animal's page (Cat, Rabbit, Guinea Pig)
   - Sign Up page - where you can fill up sign up form
+ 
+We used CSS and Javascript. 
